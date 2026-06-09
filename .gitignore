@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build outputs
+dist/
+build/
+web-build/
+.expo/
+.expo-shared/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime demo data
+apps/server/data/*.json
+!apps/server/data/.gitkeep
+
+# n8n local runtime data
+n8n/.n8n/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/

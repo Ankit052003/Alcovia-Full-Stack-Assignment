@@ -1,0 +1,14 @@
+{
+  "name": "alcovia-assignment",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "apps/server",
+    "apps/mobile"
+  ],
+  "scripts": {
+    "dev:server": "npm --workspace apps/server run dev",
+    "dev:mobile": "npm --workspace apps/mobile run web",
+    "typecheck": "npm --workspaces run typecheck"
+  }
+}

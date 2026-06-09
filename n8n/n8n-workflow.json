@@ -1,0 +1,12 @@
+{
+  "name": "Alcovia Focus Success Notification Placeholder",
+  "nodes": [],
+  "connections": {},
+  "settings": {},
+  "staticData": null,
+  "meta": {
+    "status": "placeholder",
+    "phase": "Phase 1",
+    "note": "This will be replaced with the real exported n8n workflow in Phase 8."
+  }
+}

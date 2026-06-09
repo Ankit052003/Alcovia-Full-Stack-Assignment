@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Alcovia Offline Sync",
+    "slug": "alcovia-offline-sync",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "platforms": [
+      "web"
+    ],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
